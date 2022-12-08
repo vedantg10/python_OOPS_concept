@@ -10,8 +10,6 @@ class Programmer:
         self.address = address
         self.phone = phone
         self.programming_languages = programming_languages
-        self.salary = salary
-        self.monthly_bonus = monthly_bonus
  
  
 class Assistant:
